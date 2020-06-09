@@ -1,0 +1,9 @@
+for
+For es un bucle, es decir, permite ejecutar una instrucción o bloque de código una determinada cantidad de veces. Se recomienda utilizar for cuando se conoce
+la cantidad de veces que debe ejecutarse tal instrucción.
+
+&&, ||, !:
+Tales simbolos son operadores lógicos, se utilizan, dependiendo su simbolo, para combinar condiciones o negarlas.
+&& = Y = AND: En este caso las condiciones deben ser verdaderas para que el resultado sea verdadero.
+|| = O = OR: Por lo menos una condición debe ser verdadera para que el resultado sea verdadero.
+! = NEGACIÓN: Si la condición es verdadera la negará y será falsa, si es falsa la negará y será verdadera.
