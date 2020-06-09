@@ -1,0 +1,17 @@
+Variables:
+Las variables son espacios donde se pueden guardar información.
+
+Strings:
+Los strings son cadenas de caracteres. Las variables pueden ser de tipo string.
+
+funciones, argumentos, return:
+Las funciones son bloques de codigo que pueden ser reutilziados. Estas funciones pueden tener o no argumentos.
+Los argumentos son variables que utiliza la función para interactuar con el bloque de codigo o codigo interno de la misma.
+Por otro lado, el return es una instrucción que obliga a terminar la funcion. El mismo, puede estar acompañado de un valor o no.
+
+Declaraciones if:
+las declaraciones if son condiciones, estas condiciones contienen un bloque de codigo. Para que este bloque de codigo se ejecute, la condicion debe ser cumplida.
+por ejemplo si (if) está lloviendo (condición) no salgo de mi casa(bloque de codigo).
+
+Valores booleanos false y true.
+Los boleanos true y false pueden ser resultado de una comparación o una variable de tipo booleana.
