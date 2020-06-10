@@ -1,0 +1,6 @@
+Arrays
+Los arrays o arreglos son un tipo de variable No nativa, puede acumular varios valores dentro de sí.
+Estos valores pueden ser variables, objetos, arreglos y funciones. Cada elemento dentro del arreglo tiene un índice o posición
+con el cuel se puede acceder al mismo.
+Las posiciones de los arreglos arrancan en 0. Es decir, si un array tiene 3 elementos para acceder al primero devemos utilizar
+la posición 0, para acceder al ultimo, utilizaremos la posición 2.
