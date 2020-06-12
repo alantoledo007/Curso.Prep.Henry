@@ -1,0 +1,17 @@
+objetos
+Los objetos son parecidos a los array, es decir, son contenedores de colecciones de datos. Pero los objetos pueden tener llaves alfanuméricas y además, se puee acceder a sus
+claves o indices a traves de puntos. Y, a diferencia de los arrays, los objetos se instancian con llaves {}.
+
+
+Propiedades
+las propiedades son las variables internas del objeto.
+
+Metodos.
+Los metodos son las funciones internas de un objeto.
+
+For-in
+El bucle for in permite reorrer los indices de una matriz. Por cada vuelta del buble cambiará el incide, con el cual podemos acceder al item de la matriz.
+
+Notación de puntos vs notación de corchetes.
+La notación de puntos es mas practica a la hora de acceder a un item en especifico. Pero si el incide se encuentra destro de una variable, tendremos que usar los corchetes,
+ya que de la otra manera no podrá encontrar el indice deseado.
