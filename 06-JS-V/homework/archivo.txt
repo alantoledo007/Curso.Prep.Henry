@@ -1,0 +1,7 @@
+Prototype
+El prototype es una caracteristico de todos los abjetos de Javascript. Los metodos declarados en prototype puede ser accedido por sus objetos hijos.
+Pero los objetos hijos tambien pueden reescribir estos metodos.
+
+_Constructors_
+Los constructores son un metodo por defecto en cada clase, el mismo se ejecuta al momento de instanciar la clase, es decir, crear el objeto.
+Se utiliza generalmente para asignar valores por defecto aunque su uso no es obligatorio.
